@@ -10,14 +10,14 @@
 
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/akshat-batra-12b4a519b/" target="blank">AkshatBatra</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/akshat-batra-12b4a519b/" target="_blank">AkshatBatra</a>
 
-- 📄 <a href="https://drive.google.com/file/d/1_xb7xuv94HVowoFSkzIsaNLFhhIaKh8T/view?usp=sharing" target="blank">@Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1_xb7xuv94HVowoFSkzIsaNLFhhIaKh8T/view?usp=sharing" target="_blank">@Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshat-batra-12b4a519b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-batra-12b4a519b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshatbatra10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatbatra10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshat-batra-12b4a519b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-batra-12b4a519b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akshatbatra10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatbatra10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
