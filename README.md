@@ -12,7 +12,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/akshat-batra-12b4a519b/" target="_blank">AkshatBatra</a>
 
-- 📄 <a href="https://drive.google.com/file/d/1_xb7xuv94HVowoFSkzIsaNLFhhIaKh8T/view?usp=sharing" target="_blank">@Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1bDYBeGza99NYSck1Yb3d9yp_NctrwOcY/view?usp=sharing" target="_blank">@Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
