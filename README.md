@@ -1,31 +1,85 @@
 <h1 align="center">Hi 👋, I'm Akshat Batra</h1>
-<h3 align="center">I am a Software Engineer dedicated to improving skills through hands-on learning and development work. I am always on the lookout to learn new technologies and skills. My goal is to secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h3 align="center">Backend-Focused Full-Stack Engineer | Java • Spring Boot • PostgreSQL • Kafka • AWS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatbatra10&label=Profile%20views&color=0e75b6&style=flat" alt="akshatbatra10" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Scalable+Architectures;Lifelong+Learner+%E2%9C%8C%EF%B8%8F;Let's+create+impact+together!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-
-- 🌱 I’m currently learning **Blockchain, DSA and strengthening my problem solving skills**
-
-- 💬 Ask me about **anything, I am happy to help**
-
-- 📫 How to reach me <a href="https://www.linkedin.com/in/akshat-batra-12b4a519b/" target="_blank">AkshatBatra</a>
-
-- 📄 <a href="https://drive.google.com/file/d/1bDYBeGza99NYSck1Yb3d9yp_NctrwOcY/view?usp=sharing" target="_blank">@Resume</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshat-batra-12b4a519b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-batra-12b4a519b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshatbatra10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatbatra10" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatbatra10&show_icons=true&locale=en&layout=compact" alt="akshatbatra10" /></p>
+<img align="right" alt="Coding" width="420" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatbatra10&show_icons=true&locale=en" alt="akshatbatra10" /></p>
+### 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatbatra10&" alt="akshatbatra10" /></p>
+- 👨‍💻 Currently building a full-stack project using **Spring Boot, PostgreSQL, Kafka, Redis, Docker**, and **AWS** — focused on **scalable backend architecture** and **system design best practices**.
+- 🤝 Looking to collaborate on **backend-heavy full-stack apps**, **microservices systems**, and **open-source DevOps/distributed systems projects**.
+- 🌱 Learning Docker, Kubernetes, AWS (EC2, ECS, RDS), GitHub Actions, and advanced system design.
+- 💡 Exploring: Kafka stream processing, Redis caching strategies, Kubernetes deployment, and CI/CD automation.
+- 💬 Ask me about **Java, Spring Boot, REST APIs, PostgreSQL, React.js, Microservices, and Clean Architecture**.
 
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatbatra10)  
+📧 [akshatbatra10@gmail.com](mailto:akshatbatra10@gmail.com)  
+📄 [Resume](https://drive.google.com/file/d/1bDYBeGza99NYSck1Yb3d9yp_NctrwOcY/view?usp=sharing)
+
+---
+
+### 💻 Tech Stack
+
+#### 🚀 Backend
+`Java` `Spring Boot` `Spring Security` `Hibernate` `PostgreSQL` `Redis` `Kafka` `REST APIs` `Microservices` `Maven`
+
+#### 🌐 Frontend
+`React.js` `Redux` `React Router` `React Hook Form` `HTML` `CSS` `TailwindCSS` `Bootstrap` `EJS`
+
+#### ⚙️ DevOps & Tools
+`Docker` `GitHub Actions` `AWS EC2` `AWS RDS` `Kubernetes (learning)` `CI/CD Pipelines` `Git` `Postman` `Apache Tomcat` `Jira` `Confluence`
+
+#### 🧰 Others
+`MongoDB` `MySQL` `Socket.IO` `Prisma` `Firebase` `Strapi` `ESLint`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatbatra10&theme=tokyonight&show_icons=true&hide_border=false" alt="Akshat's GitHub Stats" />
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akshatbatra10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbatra10&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=akshatbatra10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+### ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+### 📈 Profile Views & Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshatbatra10&label=Profile%20views&color=0e75b6&style=flat" alt="AkshatBatra" />
+</p>
+
+---
+
+> ⚡ “I build systems that scale, perform, and evolve — because backend is not just logic, it’s an architecture of impact.”
+
+---
+
+<!-- Built with ❤️ by Akshat Batra -->
